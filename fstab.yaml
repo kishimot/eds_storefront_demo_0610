@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://github.com/kishimot/eds_storefront_demo_0610
+    type: markup
+
+folders:
+  /products/: /products/default
