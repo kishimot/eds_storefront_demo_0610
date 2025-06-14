@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://github.com/kishimot/eds_storefront_demo_0610
+    url: https://content.da.live/kishimot/eds_storefront_demo_0610/
     type: markup
 
 folders:
